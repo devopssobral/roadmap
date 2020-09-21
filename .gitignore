@@ -1,0 +1,6 @@
+.local/
+.terragrunt-cache/
+
+.idea
+
+docs/_site
